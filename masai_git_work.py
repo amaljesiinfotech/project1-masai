@@ -1,2 +1,5 @@
 print("A")
 print("B")
+print("C")
+print("amal")
+print("amalan")
